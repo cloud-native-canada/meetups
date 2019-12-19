@@ -2,8 +2,8 @@
 
 Github repository with all Meetup information and slides from Cloud Native Eastern Canada Meetups:
 
-* [Montreal](montreal/README.me)
-* [Ottawa](ottawa/README.me)
-* [Quebec](quebec/README.me)
-* [Toronto](toronto/README.me)
-* [Waterloo-Kitchener](waterloo-kitchener/README.me)
+* [Montreal](montreal/README.md)
+* [Ottawa](ottawa/README.md)
+* [Quebec](quebec/README.md)
+* [Toronto](toronto/README.md)
+* [Waterloo-Kitchener](waterloo-kitchener/README.md)
