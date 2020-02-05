@@ -5,7 +5,7 @@ Github repository with all Meetup information and slides from Cloud Native Easte
 * [Montreal](montreal/README.md)
   * Julia Simons Director of Marketing, [CloudOps](cloudops.com)
   * Ayrat Khayretdinov [@archyufa](https://github.com/archyufa), CNCF Ambassador
-  * Anthony Dahane [@anthonydahanne](https://github.com/anthonydahanne), Software engineer, [Adaptive](https://weareadaptive.com/
+  * Anthony Dahane [@anthonydahanne](https://github.com/anthonydahanne), Software engineer, [Adaptive](https://weareadaptive.com/)
 * [Ottawa](ottawa/README.md)
   * Ayrat Khayretdinov [@archyufa](https://github.com/archyufa), CNCF Ambassador
   * Chris Carty, Senior DevOps, [City of Ottawa](https://ottawa.ca/en) 
