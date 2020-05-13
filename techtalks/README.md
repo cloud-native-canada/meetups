@@ -1,4 +1,4 @@
-# Canadian Cloud Native Stories organized Online
+# Canadian Cloud Native Tech Talks organized Online
 
 ## Description
 *What:* Cloud Native tech talks

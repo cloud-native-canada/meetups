@@ -22,3 +22,20 @@ Github repository with all Meetup information and slides from Cloud Native Easte
   * Dima Kassab, [@dima_kassab](https://twitter.com/dima_kassab), Customer Engineer, [Google Cloud](https://cloud.google.com/) 
 * [Waterloo-Kitchener](waterloo-kitchener/README.md)  
   * Chris Volik [psycotica0](https://github.com/psycotica0), Production engineer, Shopify
+
+
+## Join our Community!
+
+### Slack
+
+Join our vibrant Slack community to ask you questions, collaborate bettween other Canadian cities, meet people with same interest and learn about latest CNCF, Kubecon, KCDs and more - [http://K8scanadaslack.herokuapp.com](http://K8scanadaslack.herokuapp.com)
+
+### Speaking Opportunities
+
+If you'd like to speak at our meetups please submit CFP here:
+* Online Tech Talks [CFP](https://www.papercall.io/virtual-cncf-eastern-canada)
+* Online Cloud Native Stories [CFP](https://www.papercall.io/virtual-cncf-eastern-canada)
+
+### Kubernetes Community Days 
+
+*Comming soon!*
