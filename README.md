@@ -30,11 +30,11 @@ Join our vibrant K8s Canada Slack community to ask your questions, collaborate b
 
 ### Twitter
 
-Follow us on Twitter - (@CloudNativeCA)[https://twitter.com/CloudNativeCA]
+Follow us on Twitter - [@CloudNativeCA](https://twitter.com/CloudNativeCA)
 
 ### Youtube Channel
 
-Subscribe to our Youtube Channel - (Kubernetes Canada Community)[https://www.youtube.com/k8scanada]
+Subscribe to our Youtube Channel - [https://www.youtube.com/k8scanada](https://www.youtube.com/channel/UC-DHooj0ec_WAujPB6Bznpg)
 
 ### Speaking Opportunities
 
