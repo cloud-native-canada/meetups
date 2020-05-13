@@ -7,7 +7,7 @@ Github repository with all Meetup information and slides from Cloud Native Easte
   * Julia Simons Director of Marketing, [CloudOps](cloudops.com)
   * Ayrat Khayretdinov [@archyufa](https://github.com/archyufa), [CNCF Ambassador](https://www.cncf.io/people/ambassadors/)
   * Anthony Dahane [@anthonydahanne](https://github.com/anthonydahanne), Software engineer, [Adaptive](https://weareadaptive.com/)
-  * Alex Gervais [@alex_gervais](https://twitter.com/alex_gervais), Senior Software Engineer, [Datawire](Datawire.io)
+  * Alex Gervais [@alex_gervais](https://twitter.com/alex_gervais), Senior Software Engineer, [Datawire](https://www.datawire.io/)
 * [Ottawa](ottawa/README.md)
   * Chris Carty, [@macintoshprime](https://twitter.com/macintoshprime) Customer Engineer, [Google Cloud](https://cloud.google.com/) 
   * Suvro Ghosh,  Software engineer, [Ribbon](https://ribboncommunications.com/)
@@ -16,7 +16,7 @@ Github repository with all Meetup information and slides from Cloud Native Easte
   * Sebastien Thomas [@prune998](https://github.com/prune998) SRE, [Tetrate](https://www.tetrate.io/)
   * Carol Tardif, [Ticketmaster](https://www.ticketmaster.ca/)
 * [Toronto](toronto/README.md)
-  * Jason Hadi [jasonhadi](https://twitter.com/jasonhadi), SRE, [Ecobee](https://www.ecobee.com/en-us/)
+  * Jason Hadi [@jasonhadi](https://github.com/jasonhadi), SRE, [ecobee](https://www.ecobee.com/)
   * Dima Kassab, [@dima_kassab](https://twitter.com/dima_kassab), Customer Engineer, [Google Cloud](https://cloud.google.com/) 
 * [Waterloo-Kitchener](waterloo-kitchener/README.md)  
   * Chris Volik [psycotica0](https://github.com/psycotica0), Production engineer, [Shopify](https://www.shopify.ca/)
@@ -26,7 +26,7 @@ Github repository with all Meetup information and slides from Cloud Native Easte
 
 ### Slack
 
-Join our vibrant K8s Canada Slack community to ask you questions, collaborate bettween other Canadian cities, meet people with same interest and learn about latest CNCF, Kubecon, KCDs news - [http://K8scanadaslack.herokuapp.com](http://K8scanadaslack.herokuapp.com)
+Join our vibrant K8s Canada Slack community to ask your questions, collaborate between other Canadian cities, meet people with same interests, and learn about the latest CNCF, Kubecon, and KCDs news - [http://K8scanadaslack.herokuapp.com](http://K8scanadaslack.herokuapp.com)
 
 ### Twitter
 
