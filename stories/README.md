@@ -2,11 +2,11 @@
 
 ## Description
 
-  **Who:**  Cloud Native end users
-  **What:** Share end user or Company Cloud Native journey
-  **How:** Submit [CFP here](https://www.papercall.io/cncf-eastern-canada-stories)
-  **Duration:** 1 hour event with 10 - 20 min time slot per speaker
-  **Why:** Swag for all speakers + learn from experience
+  - **Who:**  Cloud Native end users
+  - **What:** Share end user or Company Cloud Native journey
+  - **How:** Submit [CFP here](https://www.papercall.io/cncf-eastern-canada-stories)
+  - **Duration:** 1 hour event with 10 - 20 min time slot per speaker
+  - **Why:** Swag for all speakers + learn from experience
 
 ### 2020
 

@@ -2,10 +2,10 @@
 
 ## Description
 
-  **What:** Cloud Native tech talks
-  **Who:** CNCF Ambassadors, CNCF Project Maintainers, community members, sponsors
-  **How:** Submit [CFP here](https://www.papercall.io/virtual-cncf-eastern-canada)
-  **Duration:** 45 min time slot per speaker + 15 min Q&A
+  - **What:** Cloud Native tech talks
+  - **Who:** CNCF Ambassadors, CNCF Project Maintainers, community members, sponsors
+  - **How:** Submit [CFP here](https://www.papercall.io/virtual-cncf-eastern-canada)
+  - **Duration:** 45 min time slot per speaker + 15 min Q&A
 
 ### 2020
 

@@ -33,8 +33,8 @@ Join our vibrant K8s Canada Slack community to ask you questions, collaborate be
 ### Speaking Opportunities
 
 If you'd like to speak at our meetups please submit CFP here:
-* Online Tech Talks [CFP is open](https://www.papercall.io/virtual-cncf-eastern-canada)
-* Online Cloud Native Stories [CFP is open](https://www.papercall.io/virtual-cncf-eastern-canada)
+* Online Tech Talks -  [CFP is open](https://www.papercall.io/virtual-cncf-eastern-canada)
+* Online Cloud Native Stories - [CFP is open](https://www.papercall.io/virtual-cncf-eastern-canada)
 
 ### Kubernetes Community Days 
 
