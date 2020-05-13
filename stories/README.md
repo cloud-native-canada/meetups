@@ -1,11 +1,12 @@
 # Canadian Cloud Native Stories organized Online
 
 ## Description
-**Who:**  Cloud Native end users
-**What:** Share end user or Company Cloud Native journey
-**How:** Submit [CFP here](https://www.papercall.io/cncf-eastern-canada-stories)
-**Duration:** 1 hour event with 10 - 20 min time slot per speaker
-**Why:** Swag for all speakers + learn from experience
+
+  **Who:**  Cloud Native end users
+  **What:** Share end user or Company Cloud Native journey
+  **How:** Submit [CFP here](https://www.papercall.io/cncf-eastern-canada-stories)
+  **Duration:** 1 hour event with 10 - 20 min time slot per speaker
+  **Why:** Swag for all speakers + learn from experience
 
 ### 2020
 
@@ -20,6 +21,6 @@
 - **Story #4**:[Jason Hadi](https://twitter.com/jasonhadi) - Ecobee
   - [Slides](https://speakerdeck.com/cncfcanada/cloud-native-story-ca-number-1-by-jason-hadi-at-ecobee)
 
-- Post event [Survey](https://forms.gle/s2u4jCx7ZxxnBitUA)
+- [Post event Survey](https://forms.gle/s2u4jCx7ZxxnBitUA)
 
 Moderators: Julia Simon, [@Archy](https://twitter.com/archyufa), [Anthony Dahane ](https://github.com/anthonydahanne)

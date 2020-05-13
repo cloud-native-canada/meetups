@@ -28,13 +28,13 @@ Github repository with all Meetup information and slides from Cloud Native Easte
 
 ### Slack
 
-Join our vibrant Slack community to ask you questions, collaborate bettween other Canadian cities, meet people with same interest and learn about latest CNCF, Kubecon, KCDs and more - [http://K8scanadaslack.herokuapp.com](http://K8scanadaslack.herokuapp.com)
+Join our vibrant K8s Canada Slack community to ask you questions, collaborate bettween other Canadian cities, meet people with same interest and learn about latest CNCF, Kubecon, KCDs news - [http://K8scanadaslack.herokuapp.com](http://K8scanadaslack.herokuapp.com)
 
 ### Speaking Opportunities
 
 If you'd like to speak at our meetups please submit CFP here:
-* Online Tech Talks [CFP](https://www.papercall.io/virtual-cncf-eastern-canada)
-* Online Cloud Native Stories [CFP](https://www.papercall.io/virtual-cncf-eastern-canada)
+* Online Tech Talks [CFP is open](https://www.papercall.io/virtual-cncf-eastern-canada)
+* Online Cloud Native Stories [CFP is open](https://www.papercall.io/virtual-cncf-eastern-canada)
 
 ### Kubernetes Community Days 
 
