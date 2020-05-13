@@ -9,7 +9,6 @@ Github repository with all Meetup information and slides from Cloud Native Easte
   * Anthony Dahane [@anthonydahanne](https://github.com/anthonydahanne), Software engineer, [Adaptive](https://weareadaptive.com/)
   * Alex Gervais [@alex_gervais](https://twitter.com/alex_gervais), Senior Software Engineer, [Datawire](Datawire.io)
 * [Ottawa](ottawa/README.md)
-  * Ayrat Khayretdinov [@archyufa](https://github.com/archyufa), CNCF Ambassador
   * Chris Carty, Customer Engineer, [Google Cloud](https://cloud.google.com/) 
   * Suvro Ghosh,  Software engineer,[Ribbon](https://ribboncommunications.com/)
   * Raymond Maika, Engineering Team Lead at [CENGN](https://www.cengn.ca/)
@@ -17,7 +16,6 @@ Github repository with all Meetup information and slides from Cloud Native Easte
   * Sebastien Thomas [@prune998](https://github.com/prune998) SRE, [Tetrate](https://www.tetrate.io/)
   * Carol Tardif, [Ticketmaster](https://www.ticketmaster.ca/)
 * [Toronto](toronto/README.md)
-  * Ayrat Khayretdinov [@archyufa](https://github.com/archyufa), CNCF Ambassador
   * Jason Hadi [jasonhadi](https://twitter.com/jasonhadi) 
   * Dima Kassab, [@dima_kassab](https://twitter.com/dima_kassab), Customer Engineer, [Google Cloud](https://cloud.google.com/) 
 * [Waterloo-Kitchener](waterloo-kitchener/README.md)  
@@ -29,6 +27,15 @@ Github repository with all Meetup information and slides from Cloud Native Easte
 ### Slack
 
 Join our vibrant K8s Canada Slack community to ask you questions, collaborate bettween other Canadian cities, meet people with same interest and learn about latest CNCF, Kubecon, KCDs news - [http://K8scanadaslack.herokuapp.com](http://K8scanadaslack.herokuapp.com)
+
+### Twitter
+
+Follow us on Twitter - (@CloudNativeCA)[https://twitter.com/CloudNativeCA]!
+
+### Youtube Channel
+
+Subscribe to our Youtube Channel - (Kubernetes Canada Community
+)[https://www.youtube.com/channel/UC-DHooj0ec_WAujPB6Bznpg]!
 
 ### Speaking Opportunities
 
