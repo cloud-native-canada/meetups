@@ -16,10 +16,10 @@ Github repository with all Meetup information and slides from Cloud Native Easte
   * Sebastien Thomas [@prune998](https://github.com/prune998) SRE, [Tetrate](https://www.tetrate.io/)
   * Carol Tardif, [Ticketmaster](https://www.ticketmaster.ca/)
 * [Toronto](toronto/README.md)
-  * Jason Hadi [jasonhadi](https://twitter.com/jasonhadi) 
+  * Jason Hadi [jasonhadi](https://twitter.com/jasonhadi), SRE [Ecobee](https://www.ecobee.com/en-us/)
   * Dima Kassab, [@dima_kassab](https://twitter.com/dima_kassab), Customer Engineer, [Google Cloud](https://cloud.google.com/) 
 * [Waterloo-Kitchener](waterloo-kitchener/README.md)  
-  * Chris Volik [psycotica0](https://github.com/psycotica0), Production engineer, Shopify
+  * Chris Volik [psycotica0](https://github.com/psycotica0), Production engineer, [Shopify](https://www.shopify.ca/)
 
 
 ## Join our Community!
@@ -30,12 +30,11 @@ Join our vibrant K8s Canada Slack community to ask you questions, collaborate be
 
 ### Twitter
 
-Follow us on Twitter - (@CloudNativeCA)[https://twitter.com/CloudNativeCA]!
+Follow us on Twitter - (@CloudNativeCA)[https://twitter.com/CloudNativeCA]
 
 ### Youtube Channel
 
-Subscribe to our Youtube Channel - (Kubernetes Canada Community
-)[https://www.youtube.com/channel/UC-DHooj0ec_WAujPB6Bznpg]!
+Subscribe to our Youtube Channel - (Kubernetes Canada Community)[https://www.youtube.com/channel/UC-DHooj0ec_WAujPB6Bznpg]
 
 ### Speaking Opportunities
 
